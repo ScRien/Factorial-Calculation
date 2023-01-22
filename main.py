@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
-
 def Factorial_Calculation():
     try:
         sayi = int(input("Sayı giriniz: "))
